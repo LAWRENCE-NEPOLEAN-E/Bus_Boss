@@ -1,0 +1,110 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+html{
+	background:#111;
+}
+body{
+	background:white;
+	height:1920px;
+	width:1190px;
+	margin:10px auto;
+}
+#header{
+	background:silver;
+	height:240px;
+	width:100%;
+	
+}
+#nav{
+	background:#7D0CD3;
+	height:50px;
+	width:100%;
+}
+
+#footer{
+	background:black;
+	height:30px;
+	width:100%;
+	
+}
+#lftbox{
+	height:75%;
+	float:left;
+	width:25%;
+	background:#F7BB2E;
+	
+	
+}
+#rtbox{
+	height:77%;
+	float:right;
+	width:75%;
+	background:white;
+}
+#rtboxform{
+	height:50%;
+	float:center-right;
+	width:17%;
+	background:white;
+}
+#navul li{
+	list-style-type:none;
+	display:inline;
+	padding-left:15px;
+	padding-right:15px;
+	line-height:30px;
+}
+#navul li a{
+	text-decoration:none;
+	color:#F7BB2E;
+}
+#navul li a :hover{
+	color:white;
+}
+
+#lful li a:hover{
+	color:navy;
+}
+#lful li a{
+	text-decoration:none;
+	color:navy;
+	
+}
+#lful li {
+	list-style-type:none;
+	padding-left:25px;
+	padding-top:5px;
+	padding-bottom:59px;
+}
+#logotxt{
+	width:25%;
+	height:100%;
+	background:silver;
+	float:left;
+}
+#logo{
+	width:75%;
+	height:100%;
+	background:yellow;
+	float:right;
+}
+#logotxt h1{
+	color: black;
+	font-family:Copperplate Gothic Bold;
+	font-size:45px;
+	padding-top:20px;
+	padding-left:10px;
+}
+#logotxt h3{
+	color:black;
+	font-family:Eras Bold ITC;
+	font-size:23px;
+	padding-left:25px;
+}
+#imglogo{
+	padding-top:5px;
+}	
+	
+	
